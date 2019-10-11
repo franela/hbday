@@ -1,0 +1,9 @@
+.hero{
+  background-image: url("https://picsum.photos/536/354");
+  background-size: cover;
+}
+
+.login{
+  background-color: aqua;
+  margin: 20px;
+}
